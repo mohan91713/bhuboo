@@ -15,7 +15,7 @@
 <style type="text/css">
 
 .back {
-	background-image: url("http://previews.123rf.com/images/urfingus/urfingus1601/urfingus160100045/50181374-3d-render-of-big-pile-of-colorful-books-on-the-right-side-isolated-on-a-white-background--Stock-Photo.jpg");
+	background-image: url("https://wallpaperscraft.com/image/texture_ice_cream_drawings_111758_602x339.jpg");
 	background-size:100%;
 }
 
@@ -26,26 +26,26 @@
 <div class="back">
 <h1 class="entry-title">Contact</h1>
 <div class="entry-content">
-<p><strong>book store Ltd</strong><br />
+<p><strong>bhuboo pvt Ltd</strong><br />
 27 Corsham Street<br />
 N1 6DR<br />
 Chennai<br />
 India</p>
 <p>Tel (IN): +44 (0) 20 51 236<br />
-<a href="mailto:public@bookstore.com">public@bookstore.in</a></p>
+<a href="mailto:public@bhuboo.com">public@bhuboo.in</a></p>
 <p><strong>Company registration number  :</strong> 7257821</p>
 <p><strong>CEO</strong><br />
 Sangeeth<br/>
- <a href="mailto:ceo@bookstore.com">ceo@bookstore.in</a><br />
+ <a href="mailto:ceo@bhuboo.com">ceo@bhuboo.in</a><br />
 Tel: +44 58 56 58 5</p>
  <br />
 <p><strong>Responsible for Press Relations and Cooperations</strong><br />
 Thomas<br />
-<a href="mailto:tbm@bookstore.in">tbm@bookstore.in</a><br />
+<a href="mailto:tbm@bhuboo.in">tbm@bhuboo.in</a><br />
 Tel: +44 81 81 20 2</p>
 <p><strong>Responsible for Sales and supplies</strong><br />
 mark<br />
-<a href="mailto:kbm@bookstore.com">kbm@bookstore.in</a><br />
+<a href="mailto:kbm@bhuboo.com">kbm@bhuboo.in</a><br />
 Tel: +44 28 56 92 5</p>
 <br/>
 <br/>

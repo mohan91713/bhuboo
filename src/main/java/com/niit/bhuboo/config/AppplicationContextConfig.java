@@ -25,12 +25,12 @@ import com.niit.bhuboo.model.Supplier;
 import com.niit.bhuboo.model.UserDetails;
 import com.niit.bhuboo.model.UserOrder;
 
-
+//import com.niit.shopcart.model.Product;
 
 
 
 @Configuration
-@ComponentScan("com.niit.bhuboo")
+@ComponentScan("com.niit")
 @EnableTransactionManagement
 public class AppplicationContextConfig {
 	@Bean(name = "dataSource")

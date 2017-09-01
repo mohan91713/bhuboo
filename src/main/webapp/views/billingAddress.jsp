@@ -9,7 +9,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>billing page</title>
+<title>Billing page</title>
 <style>
 body {
 	background-image: url("http://eskipaper.com/images/necklace-hd-1.jpg");

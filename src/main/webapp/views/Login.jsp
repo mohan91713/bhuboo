@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Login page</title>
+<title>Login page- Bhuboo</title>
 <style type="text/css">
 h2{
 font-family: monotype corsiva;
@@ -16,7 +16,7 @@ font-family: monotype corsiva;
 	color:#000;
 	}
 .background {
-	background-image: url("https://wallpaperscraft.com/image/sunglasses_books_beach_sun_110969_1920x1080.jpg");
+	background-image: url("https://wallpaperscraft.com/image/cherry_dessert_sweet_chocolate_jam_ice_cream_raspberry_83039_1280x720.jpg");
 	background-size:100%;
 }
 

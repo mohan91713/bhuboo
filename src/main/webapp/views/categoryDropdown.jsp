@@ -59,11 +59,11 @@
         <div class="row">
 
             <div class="col-md-3">
-                <p class="lead">BOOK STORE</p>
+                <p class="lead">Bhuboo</p>
                 <div class="list-group">
-                    <a href="categoryDropdown/101" class="list-group-item">Kids</a>
-                    <a href="categoryDropdown/102" class="list-group-item">Youngsters and Teens</a>
-                    <a href="categoryDropdown/103" class="list-group-item">Text Book</a>
+                    <a href="categoryDropdown/1" class="list-group-item">I-Cone</a>
+                    <a href="categoryDropdown/2" class="list-group-item">I-Cup</a>
+                    <a href="categoryDropdown/3" class="list-group-item">I-Pack</a>
                 </div>
             </div>
    <div class="col-md-9">;
@@ -79,7 +79,7 @@
                                 <h4 class="pull-right">RS.${product.price}</h4>
                                 <h4><a href="productDisplay/${product.id}">${product.name }</a>
                                 </h4>
-<!--                                 <p>This is a short description.This jumbo book of alphabets use to learn alphabets for kids .</p> -->
+<!--                                 <p>Sweet and tasty Cone Ice Creams.Eat and have fun.</p> -->
                             </div>
                             <div class="ratings">
                                 <p class="pull-right">5 reviews</p>

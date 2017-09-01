@@ -10,7 +10,7 @@
 	    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 		<link href='https://fonts.googleapis.com/css?family=Passion+One' rel='stylesheet' type='text/css'>
 		<link href='https://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
-		<title>Register</title>
+		<title>Register - Bhuboo</title>
 		<script type="text/javascript" src="assets/js/bootstrap.js"></script>
 		<script>
 		
@@ -107,7 +107,7 @@ function validatephone(phone) {
 </script>
 <style>
 .background{
-	background-image: url("http://wallpaperscraft.com/image/book_pages_paper_110950_1920x1080.jpg");
+	background-image: url("https://wallpaperscraft.com/image/cream_background_ice_cream_77905_1280x720.jpg");
 	background-repeat: repeat;
 	background-width: 150%;
 	background-height: 150%;

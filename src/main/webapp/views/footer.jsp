@@ -47,7 +47,7 @@ padding-bottom: 1px;
 <footer class="container-fluid text-center">
  <div class="row1">
     <h4><div class="col-sm-2" style="background-color:lavender;">&copy copyrights reserved</div>
-    <div class="col-sm-6" style="background-color:lavender;"><span class="glyphicon glyphicon-envelope"> <b>mail</b>:public@bookstore.in</span> </div>
+    <div class="col-sm-6" style="background-color:lavender;"><span class="glyphicon glyphicon-envelope"> <b>mail</b>:public@bhuboo.in</span> </div>
     <div class="col-sm-4" style="background-color:lavender;">
     
 follow us @ <a href="www.facebook.com"><i class="fa fa-facebook"> </i></a>                 
